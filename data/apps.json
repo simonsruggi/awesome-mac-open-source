@@ -6510,6 +6510,12 @@
     "description": "A macOS GUI front-end for the youtube-dl video downloader"
   },
   {
+    "name": "Kilobat CLI",
+    "repo": "seifip/kilobat-cli",
+    "category": "network",
+    "description": "macOS command-line network diagnostics and monitoring with JSON output and a local MCP server"
+  },
+  {
     "name": "SelfControl",
     "repo": "SelfControlApp/selfcontrol",
     "category": "productivity",
