@@ -6780,6 +6780,12 @@
     "description": "Create tasks, manage due dates, and filter with powerful perspectives"
   },
   {
+    "name": "vsux",
+    "repo": "shadowDragons/vsux",
+    "category": "editors",
+    "description": "Native Mac editor with project workspaces, split terminals, file editing, Git changes and Markdown preview"
+  },
+  {
     "name": "ShadowsocksX-NG",
     "repo": "shadowsocks/ShadowsocksX-NG",
     "category": "network",
