@@ -540,12 +540,6 @@
     "description": "macOS app for managing multiple Claude Code sessions in parallel, with split/grid layouts, session groups, SSH remote sessions, a git panel, and usage analytics"
   },
   {
-    "name": "Arroxy",
-    "repo": "antonio-orionus/Arroxy",
-    "category": "downloads",
-    "description": "Video and audio downloader powered by yt-dlp, with a built-in browser, playlists, subtitles and download profiles"
-  },
-  {
     "name": "Tad",
     "repo": "antonycourtney/tad",
     "category": "writing",
@@ -589,7 +583,7 @@
   },
   {
     "name": "Coincide",
-    "repo": "apoorvdarshan/coincide",
+    "repo": "apoorvdarshan/coincide-archived",
     "category": "editors",
     "description": "Open-source native workspace for coding agents (Claude Code, Codex, Cursor, Grok Build, OpenCode, Antigravity), where one thread can switch agents mid-conversation"
   },
@@ -700,6 +694,12 @@
     "repo": "arnoappenzeller/PiPifier",
     "category": "browsers",
     "description": "PiPifier is a native macOS 10.12 Safari extension that lets you use every HTML5 video in Picture in Picture mode"
+  },
+  {
+    "name": "Arroxy",
+    "repo": "Arroxy/Arroxy",
+    "category": "downloads",
+    "description": "Video and audio downloader powered by yt-dlp, with a built-in browser, playlists, subtitles and download profiles"
   },
   {
     "name": "dupeGuru",
@@ -1506,6 +1506,12 @@
     "description": "Free MIT-licensed Mac dictation with on-device Whisper and Parakeet (Apple silicon, macOS 14+)"
   },
   {
+    "name": "Hidden Bar",
+    "repo": "consolelabs/hidden",
+    "category": "menubar",
+    "description": "An ultra-light MacOS utility that helps hide menu bar icons"
+  },
+  {
     "name": "Window Glue",
     "repo": "Conxt/WindowGlue",
     "category": "windows",
@@ -2044,12 +2050,6 @@
     "repo": "duyquoc/ScreenToLayers",
     "category": "design",
     "description": "ScreenToLayers is a macOS application to easily capture your screen as a layered PSD file"
-  },
-  {
-    "name": "Hidden Bar",
-    "repo": "dwarvesf/hidden",
-    "category": "menubar",
-    "description": "An ultra-light MacOS utility that helps hide menu bar icons"
   },
   {
     "name": "Doughnut",
@@ -2934,12 +2934,6 @@
     "description": "HandBrake is a video transcoder available for Linux, Mac, and Windows"
   },
   {
-    "name": "arowser",
-    "repo": "HankMonster/arowser",
-    "category": "developer",
-    "description": "Agent-programmable borderless web windows for macOS, driven by a CLI designed for coding agents"
-  },
-  {
     "name": "Mac Android Subsystem",
     "repo": "harkhowalia-1/MacSubsystemForAndroid",
     "category": "virtualization",
@@ -3546,12 +3540,6 @@
     "description": "Easily import MP4/MOV videos as system wallpapers and lock screen animations"
   },
   {
-    "name": "Watson",
-    "repo": "jazzband/Watson",
-    "category": "productivity",
-    "description": "A CLI application for time tracking"
-  },
-  {
     "name": "Stargazer Bar",
     "repo": "jazzyalex/stargazer-bar",
     "category": "menubar",
@@ -3694,6 +3682,12 @@
     "repo": "jlong/TrelloApp",
     "category": "productivity",
     "description": "Unofficial wrapper application for Trello.com written in Swift. This is almost a \"Hello World\" for a site specific browser"
+  },
+  {
+    "name": "Watson",
+    "repo": "jmaupetit/Watson",
+    "category": "productivity",
+    "description": "A CLI application for time tracking"
   },
   {
     "name": "notable",
