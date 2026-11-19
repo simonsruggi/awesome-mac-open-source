@@ -7158,12 +7158,6 @@
     "description": "Input source switcher that gives each input source its own key, such as Left Command for English and Right Command for Chinese"
   },
   {
-    "name": "SIAM.AI GPU Watch",
-    "repo": "siamaicorp/GPUWatch",
-    "category": "system",
-    "description": "Menu bar app for monitoring NVIDIA GPUs across remote servers over SSH"
-  },
-  {
     "name": "PB for Desktop",
     "repo": "sidneys/pb-for-desktop",
     "category": "utilities",
