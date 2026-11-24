@@ -3192,6 +3192,12 @@
     "description": "On-device voice dictation and meeting transcription powered by whisper.cpp and Metal"
   },
   {
+    "name": "MyAgents",
+    "repo": "hAcKlyc/MyAgents",
+    "category": "ai",
+    "description": "Local-first desktop workbench for multiple AI agent runtimes, with separate workspaces and scheduled tasks"
+  },
+  {
     "name": "Lepton",
     "repo": "hackjutsu/Lepton",
     "category": "utilities",
